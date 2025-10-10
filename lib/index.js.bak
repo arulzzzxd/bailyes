@@ -3,20 +3,11 @@
 const chalk = require("chalk");
 const gradient = require("gradient-string");
 
-console.clear();
 console.log();
-
-
 console.log(
-  chalk.bold.hex("#A8C7FF")("github:arulzzzxd/bailyes-pro") + " " +
-  chalk.bold.hex("#7EC9FF")("Baileys")
+  chalk.bold.hex('#FFA500')('@rexxhayanasi/elaina-bail') + chalk.bold.cyan('Baileys')
 );
-
-console.log(
-  gradient(["#D3B7FF", "#A8C7FF"])("'t.me/arulzzxd")
-);
-
-
+console.log(gradient(['magenta', 'cyan'])('> Contact Owner at Baileys Documentation <'));
 console.log();
 
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
