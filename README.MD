@@ -2,7 +2,7 @@
   <h1>✨ github:arulzzzxd/baileys</h1>
   <p><em>Modernized WhatsApp library built upon Baileys — refined, powerful, and developer-friendly ✨</em></p>
 
-  <img src="https://files.catbox.moe/qc58pa.jpg" width="300" alt="BAiLyEs Banner" />
+  <img src="https://raw.githubusercontent.com/arulzzzxd/uploadergh/main/uploads/1759943912065.jpg" width="300" alt="baileys Banner" />
 
 ---
 
